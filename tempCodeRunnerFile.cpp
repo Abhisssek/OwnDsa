@@ -1,5 +1,3 @@
-while (i<=10)
-    {
-        cout<<v[i]<<" ";
-        i++;
-    }
+f(i!=n/i){
+    //         cout<<n/i<<endl;
+    // }
